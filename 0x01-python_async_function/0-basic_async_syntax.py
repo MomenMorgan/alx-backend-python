@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+""" Takes int arg, waits for random delay """
 import asyncio
 import random
 
